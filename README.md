@@ -68,7 +68,7 @@
 - **Suits (2011-2019, Drama, Gabriel Macht, Patrick J. Adams)**: Un prestigioso bufete de abogados de Nueva York contrata a un genio universitario sin título de abogado, cambiando para siempre la dinámica del despacho.
 - **Black Mirror (2011-2024, Ciencia ficción/Drama)**: Una serie antológica que explora la paranoia contemporánea y la relación compleja entre la tecnología y la sociedad.
 
-## 🎬👑 Películas de Terror de Stephen King
+## Películas de Terror de Stephen King 🎬👑
 - **Carrie (1976, Terror/Drama)**: Dirigida por Brian De Palma, sigue la historia de una joven con poderes telequinéticos que se desatan tras años de abuso.
 - **The Shining (1980, Terror/Drama)**: Stanley Kubrick dirige esta icónica adaptación donde un escritor (Jack Nicholson) y su familia se enfrentan a fuerzas sobrenaturales en un hotel aislado.
 - **It (1990, Terror/Drama)**: Una miniserie que adapta la novela de King sobre un payaso malévolo que aterroriza a un grupo de niños.
@@ -81,11 +81,11 @@
 - **Naruto (2002)**: La primera serie de anime que sigue las aventuras de Naruto Uzumaki, un joven ninja con el sueño de convertirse en el Hokage, el líder de su aldea.
 - **Neon Genesis Evangelion (1995)**: Una serie mecha que explora temas complejos como la psicología de los personajes y el significado de la existencia mientras pilotean robots gigantes para defender la Tierra.
 
-## 🎮🚫 Juegos que NO deberías jugar
+## Juegos que NO deberías jugar 🎮🚫 
 - **Valorant**: Conocido por su controvertido sistema de anti-trampas que puede afectar la privacidad y la seguridad del sistema.
 - **League of Legends (LoL)**: Aunque popular, ha sido criticado por problemas de toxicidad en la comunidad y políticas de moderación cuestionables.
 - **Fortnite**: A pesar de su popularidad, ha sido objeto de críticas por su impacto en el comportamiento y la adicción de los jugadores, especialmente entre los jóvenes.
 
-## 📉🧠 Plataformas que NO deberías usar para evitar impactos negativos en tu IQ🚫
+## Plataformas que NO deberías usar para evitar impactos negativos en tu IQ 🚫📉🧠
 - **TikTok**: Criticado por su formato de videos cortos que pueden promover contenidos superficiales y distracciones constantes.
 - **Twitter**: Aunque útil para la información rápida, ha sido criticado por fomentar debates polarizados y una exposición excesiva a información no verificada.
