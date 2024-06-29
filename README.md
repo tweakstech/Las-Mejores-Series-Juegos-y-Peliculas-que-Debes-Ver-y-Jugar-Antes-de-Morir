@@ -1,7 +1,7 @@
  
 # 💀 Las Mejores Series, Juegos y Películas que Debes Ver y Jugar Antes de Morir ☠️😱
 
-### Películas 🎬
+## Películas 🎬
 - **Goodfellas (1990, Crimen/Drama, Robert De Niro)**: Un relato intenso sobre el crimen organizado en Nueva York, dirigido por Martin Scorsese.
 - **Casino (1995, Crimen/Drama, Robert De Niro)**: La historia de la mafia en Las Vegas, llena de traiciones y ambiciones desmedidas, también dirigida por Scorsese.
 - **Carlito's Way (1993, Crimen/Drama, Al Pacino)**: Un ex-convicto intenta llevar una vida honesta, pero su pasado criminal sigue persiguiéndolo.
@@ -34,7 +34,7 @@
 - **Hackers (1995, Crimen/Thriller, Jonny Lee Miller y Angelina Jolie)**: Una película sobre un grupo de jóvenes hackers que se ven envueltos en una conspiración de alta tecnología.
 - **Blackhat (2015, Acción/Crimen, Chris Hemsworth)**: Un thriller basado en eventos reales, donde un hacker convicto es liberado para ayudar a capturar a un cibercriminal que está causando caos a nivel global.
 
-### Juegos 🎮
+## Juegos 🎮
 - **Metal Gear Solid Saga (1998-2015, Acción/Aventura, Hideo Kojima)**: Una serie de juegos de espionaje táctico creados por Hideo Kojima, conocidos por su profunda narrativa y complejos personajes.
 - **Splinter Cell Saga (2002-2013, Acción/Sigilo, Sam Fisher)**: Juegos de sigilo y espionaje protagonizados por Sam Fisher, un agente encubierto que realiza misiones para la NSA.
 - **Assassin's Creed 2, 3, Black Flag (2009, 2012, 2013, Acción/Aventura, Desmond Miles)**: Aventuras históricas que combinan parkour, sigilo y combates en distintos periodos de la historia, protagonizadas en su mayoría por Desmond Miles.
@@ -50,7 +50,7 @@
 - **Mafia II (2010, Acción/Aventura, Vito Scaletta)**: La secuela sigue la historia de Vito Scaletta, un inmigrante italoamericano que se une a la mafia para escapar de la pobreza, ambientada en Empire Bay, una versión ficticia de Nueva York en los años 40 y 50.
 - **Rainbow Six Siege (2015, Shooter/Táctico, Operadores de Rainbow Six)**: Un juego de disparos táctico donde los jugadores asumen el papel de operadores de élite que trabajan en equipo para enfrentarse en intensas batallas de rescate y defensa.
 
-### Series 📺
+## Series 📺
 - **Mr. Robot (2015-2019, Drama/Thriller, Rami Malek)**: Un hacker con trastorno de personalidad disociativa se ve envuelto en una conspiración global.
 - **Breaking Bad (2008-2013, Crimen/Drama, Bryan Cranston)**: La transformación de un profesor de química en un poderoso capo de la droga.
 - **24 (2001-2010, Acción/Drama, Kiefer Sutherland)**: Serie de acción en tiempo real que sigue al agente antiterrorista Jack Bauer mientras desmantela amenazas a la seguridad nacional.
@@ -68,7 +68,7 @@
 - **Suits (2011-2019, Drama, Gabriel Macht, Patrick J. Adams)**: Un prestigioso bufete de abogados de Nueva York contrata a un genio universitario sin título de abogado, cambiando para siempre la dinámica del despacho.
 - **Black Mirror (2011-2024, Ciencia ficción/Drama)**: Una serie antológica que explora la paranoia contemporánea y la relación compleja entre la tecnología y la sociedad.
 
-### 🎬👑 Películas de Terror de Stephen King
+## 🎬👑 Películas de Terror de Stephen King
 - **Carrie (1976, Terror/Drama)**: Dirigida por Brian De Palma, sigue la historia de una joven con poderes telequinéticos que se desatan tras años de abuso.
 - **The Shining (1980, Terror/Drama)**: Stanley Kubrick dirige esta icónica adaptación donde un escritor (Jack Nicholson) y su familia se enfrentan a fuerzas sobrenaturales en un hotel aislado.
 - **It (1990, Terror/Drama)**: Una miniserie que adapta la novela de King sobre un payaso malévolo que aterroriza a un grupo de niños.
@@ -76,16 +76,16 @@
 - **Pet Sematary (1989 y 2019, Terror/Drama)**: Basada en la novela de King, explora los horrores que se desatan cuando una familia entierra a sus mascotas en un cementerio misterioso.
 - **1408 (2007, Terror/Drama)**: Un escritor escéptico de lo paranormal se enfrenta a terrores inimaginables en una habitación de hotel con un pasado oscuro.
 
-### Anime 🌸
+## Anime 🌸
 - **Death Note (2006)**: Un thriller psicológico que sigue la historia de un estudiante que encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.
 - **Naruto (2002)**: La primera serie de anime que sigue las aventuras de Naruto Uzumaki, un joven ninja con el sueño de convertirse en el Hokage, el líder de su aldea.
 - **Neon Genesis Evangelion (1995)**: Una serie mecha que explora temas complejos como la psicología de los personajes y el significado de la existencia mientras pilotean robots gigantes para defender la Tierra.
 
-#### 🎮🚫 Juegos que NO deberías jugar
+## 🎮🚫 Juegos que NO deberías jugar
 - **Valorant**: Conocido por su controvertido sistema de anti-trampas que puede afectar la privacidad y la seguridad del sistema.
 - **League of Legends (LoL)**: Aunque popular, ha sido criticado por problemas de toxicidad en la comunidad y políticas de moderación cuestionables.
 - **Fortnite**: A pesar de su popularidad, ha sido objeto de críticas por su impacto en el comportamiento y la adicción de los jugadores, especialmente entre los jóvenes.
 
-#### 📉🧠 Plataformas que NO deberías usar para evitar impactos negativos en tu IQ🚫
+## 📉🧠 Plataformas que NO deberías usar para evitar impactos negativos en tu IQ🚫
 - **TikTok**: Criticado por su formato de videos cortos que pueden promover contenidos superficiales y distracciones constantes.
 - **Twitter**: Aunque útil para la información rápida, ha sido criticado por fomentar debates polarizados y una exposición excesiva a información no verificada.
