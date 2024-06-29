@@ -86,6 +86,25 @@
 - **League of Legends (LoL)**: Aunque popular, ha sido criticado por problemas de toxicidad en la comunidad y políticas de moderación cuestionables.
 - **Fortnite**: A pesar de su popularidad, ha sido objeto de críticas por su impacto en el comportamiento y la adicción de los jugadores, especialmente entre los jóvenes.
 
-## Plataformas que NO deberías usar para evitar impactos negativos en tu IQ 🚫📉🧠
+> [!WARNING]
+> Plataformas que NO deberías usar para evitar impactos negativos en tu IQ 🚫📉🧠
+
 - **TikTok**: Criticado por su formato de videos cortos que pueden promover contenidos superficiales y distracciones constantes.
 - **Twitter**: Aunque útil para la información rápida, ha sido criticado por fomentar debates polarizados y una exposición excesiva a información no verificada.
+
+
+## Advertencia sobre la importancia de seguir las recomendaciones
+> [!IMPORTANT]
+> Pero si descuidas estas recomendaciones, podrías morir de manera horrible. 🚨💀
+> 
+> ¡Muahaha! 😂
+
+
+---
+
+
+## Licencia
+
+ Este proyecto se encuentra bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Consulta el archivo `LICENSE` para más detalles.
+
+© 2024 tweakstech
