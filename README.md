@@ -49,7 +49,10 @@
 - **Mafia (2002, Acción/Aventura, Tommy Angelo)**: En este juego, los jugadores asumen el papel de Tommy Angelo, un taxista convertido en gángster durante la era de la Ley Seca en la ciudad ficticia de Lost Heaven.
 - **Mafia II (2010, Acción/Aventura, Vito Scaletta)**: La secuela sigue la historia de Vito Scaletta, un inmigrante italoamericano que se une a la mafia para escapar de la pobreza, ambientada en Empire Bay, una versión ficticia de Nueva York en los años 40 y 50.
 - **Rainbow Six Siege (2015, Shooter/Táctico, Operadores de Rainbow Six)**: Un juego de disparos táctico donde los jugadores asumen el papel de operadores de élite que trabajan en equipo para enfrentarse en intensas batallas de rescate y defensa.
-
+- **Final Fantasy VII (1997, RPG, Square Enix)**: Un clásico RPG japonés que sigue la historia de Cloud Strife y su lucha contra el malvado Shinra Corporation.
+- **Devil May Cry 3 (2005, Acción, Capcom)**: Un juego de acción frenética protagonizado por Dante, un cazador de demonios con habilidades sobrenaturales.
+- **Kingdom Hearts (2002-presente, Acción/RPG, Square Enix)**: Una serie de juegos que combina personajes de Disney con los de Final Fantasy en una historia épica de acción y aventuras.
+- 
 ## Series 📺
 - **Mr. Robot (2015-2019, Drama/Thriller, Rami Malek)**: Un hacker con trastorno de personalidad disociativa se ve envuelto en una conspiración global.
 - **Breaking Bad (2008-2013, Crimen/Drama, Bryan Cranston)**: La transformación de un profesor de química en un poderoso capo de la droga.
