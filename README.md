@@ -35,7 +35,7 @@
 - **Blackhat (2015, Acción/Crimen, Chris Hemsworth)**: Un thriller basado en eventos reales, donde un hacker convicto es liberado para ayudar a capturar a un cibercriminal que está causando caos a nivel global.
 - **Interstellar (2014, Ciencia Ficción/Aventura, Matthew McConaughey)**: Una épica odisea espacial dirigida por Christopher Nolan, explorando el amor, el sacrificio y el destino de la humanidad.
 - **Idiocracy (2006, Comedia/Ciencia Ficción, Luke Wilson)**: Una sátira que imagina un futuro donde la inteligencia humana ha disminuido drásticamente, dirigida por Mike Judge.
-- 
+
 ## Juegos 🎮
 - **Metal Gear Solid Saga (1998-2015, Acción/Aventura, Hideo Kojima)**: Una serie de juegos de espionaje táctico creados por Hideo Kojima, conocidos por su profunda narrativa y complejos personajes.
 - **Splinter Cell Saga (2002-2013, Acción/Sigilo, Sam Fisher)**: Juegos de sigilo y espionaje protagonizados por Sam Fisher, un agente encubierto que realiza misiones para la NSA.
