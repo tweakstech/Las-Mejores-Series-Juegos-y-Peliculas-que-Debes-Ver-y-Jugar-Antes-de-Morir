@@ -45,7 +45,6 @@
 - **Resident Evil 4 (2005, Survival Horror, Leon S. Kennedy)**: Un clásico del survival horror donde Leon S. Kennedy debe rescatar a la hija del presidente de una aldea infestada de zombies.
 - **Silent Hill 2 (2001, Survival Horror, James Sunderland)**: En esta secuela, James Sunderland explora un pueblo misterioso lleno de horrores psicológicos y criaturas grotescas.
 - **Tomb Raider (2013, Acción/Aventura, Lara Croft)**: El reinicio de la serie que sigue a una joven Lara Croft en sus primeras aventuras, explorando islas peligrosas y desafiando antiguos misterios.
-- **Dragon Ball Z: Budokai Tenkaichi (2005, Lucha, Varios personajes de Dragon Ball Z)**: Este juego de lucha de la serie Dragon Ball Z permite a los jugadores controlar una amplia gama de personajes y participar en combates con mecánicas de juego mejoradas y batallas en entornos destructibles.
 - **Grand Theft Auto III (2001, Acción/Aventura, Varios personajes)**: Este juego revolucionó el género de mundo abierto al permitir a los jugadores explorar libremente la ciudad de Liberty City y participar en misiones que involucran crimen, vehículos y acción desenfrenada.
 - **Bully (2006, Acción/Aventura, Jimmy Hopkins)**: Este juego desarrollado por Rockstar Games sigue a Jimmy Hopkins, un estudiante problemático que debe navegar por la academia, enfrentarse a bullies y resolver problemas mientras intenta hacerse un lugar en la escuela.
 - **Mafia (2002, Acción/Aventura, Tommy Angelo)**: En este juego, los jugadores asumen el papel de Tommy Angelo, un taxista convertido en gángster durante la era de la Ley Seca en la ciudad ficticia de Lost Heaven.
@@ -54,6 +53,10 @@
 - **Final Fantasy VII (1997, RPG, Square Enix)**: Un clásico RPG japonés que sigue la historia de Cloud Strife y su lucha contra el malvado Shinra Corporation.
 - **Devil May Cry 3 (2005, Acción, Capcom)**: Un juego de acción frenética protagonizado por Dante, un cazador de demonios con habilidades sobrenaturales.
 - **Kingdom Hearts (2002-presente, Acción/RPG, Square Enix)**: Una serie de juegos que combina personajes de Disney con los de Final Fantasy en una historia épica de acción y aventuras.
+- **Call of Duty (2003, Shooter, Infinity Ward)**: El juego original que inició la famosa serie de FPS (First-Person Shooter) ambientada en la Segunda Guerra Mundial.
+- **Call of Duty 2 (2005, Shooter, Infinity Ward)**: La secuela que continuó con la narrativa y la acción intensa de su predecesor.
+- **Call of Duty 4: Modern Warfare (2007, Shooter, Infinity Ward)**: Introdujo un cambio radical al llevar la serie a la era moderna con un enfoque en conflictos contemporáneos y tácticas modernas.
+- **Dragon Ball Z: Budokai Tenkaichi 3 (2007, Lucha, Spike)**: Juego de lucha basado en el universo de Dragon Ball Z con una amplia variedad de personajes y movimientos especiales.
 
 ## Series 📺
 - **Mr. Robot (2015-2019, Drama/Thriller, Rami Malek)**: Un hacker con trastorno de personalidad disociativa se ve envuelto en una conspiración global.
@@ -73,13 +76,23 @@
 - **Suits (2011-2019, Drama, Gabriel Macht, Patrick J. Adams)**: Un prestigioso bufete de abogados de Nueva York contrata a un genio universitario sin título de abogado, cambiando para siempre la dinámica del despacho.
 - **Black Mirror (2011-2024, Ciencia ficción/Drama)**: Una serie antológica que explora la paranoia contemporánea y la relación compleja entre la tecnología y la sociedad.
 
-## Películas de Terror de Stephen King 🎬👑
+## Películas de Terror de Stephen King 🎬👑 🌟🌟🌟🌟🌟
 - **Carrie (1976, Terror/Drama)**: Dirigida por Brian De Palma, sigue la historia de una joven con poderes telequinéticos que se desatan tras años de abuso.
 - **The Shining (1980, Terror/Drama)**: Stanley Kubrick dirige esta icónica adaptación donde un escritor (Jack Nicholson) y su familia se enfrentan a fuerzas sobrenaturales en un hotel aislado.
 - **It (1990, Terror/Drama)**: Una miniserie que adapta la novela de King sobre un payaso malévolo que aterroriza a un grupo de niños.
 - **Misery (1990, Terror/Drama)**: Basada en la novela del mismo nombre, cuenta la historia de una enfermera que secuestra a su autor favorito después de un accidente.
 - **Pet Sematary (1989 y 2019, Terror/Drama)**: Basada en la novela de King, explora los horrores que se desatan cuando una familia entierra a sus mascotas en un cementerio misterioso.
 - **1408 (2007, Terror/Drama)**: Un escritor escéptico de lo paranormal se enfrenta a terrores inimaginables en una habitación de hotel con un pasado oscuro.
+
+## Películas de Denzel Washington 🌟🌟🌟🌟🌟
+- **Man on Fire (2004, Acción/Drama, Denzel Washington)**: Un ex-agente de la CIA se convierte en guardaespaldas de una niña en México y desata su furia cuando ella es secuestrada.
+- **The Book of Eli (2010, Acción/Aventura, Denzel Washington)**: En un mundo post-apocalíptico, un hombre solitario protege con su vida un libro sagrado que podría salvar a la humanidad.
+- **Training Day (2001, Crimen/Drama, Denzel Washington)**: Un joven oficial de policía es asignado a una unidad de élite dirigida por un veterano detective corrupto.
+- **The Equalizer (2014, Acción/Crimen, Denzel Washington)**: Un ex-agente secreto ayuda a una joven mujer que está siendo amenazada por una mafia rusa.
+- **American Gangster (2007, Crimen/Drama, Denzel Washington)**: Basada en la historia real de un narcotraficante que construye un imperio en el Harlem de los años 70.
+- **Inside Man (2006, Crimen/Drama, Denzel Washington)**: Un detective se enfrenta a un intrincado juego de gato y ratón con un inteligente ladrón de bancos durante un atraco en Wall Street.
+- **Unstoppable (2010, Acción/Thriller, Denzel Washington)**: Dos empleados ferroviarios intentan detener un tren descontrolado lleno de productos químicos peligrosos.
+- **Deja Vu (2006, Acción/Sci-Fi, Denzel Washington)**: Un agente de la ATF utiliza tecnología experimental para investigar un atentado terrorista y retrocede en el tiempo para evitarlo.
 
 ## Anime 🌸
 - **Death Note (2006)**: Un thriller psicológico que sigue la historia de un estudiante que encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.
