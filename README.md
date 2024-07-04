@@ -2,15 +2,10 @@
 # 💀 Las Mejores Series, Juegos y Películas que Debes Ver y Jugar Antes de Morir ☠️😱
 
 ## Películas 🎬
-- **Goodfellas (1990, Crimen/Drama, Robert De Niro)**: Un relato intenso sobre el crimen organizado en Nueva York, dirigido por Martin Scorsese.
-- **Casino (1995, Crimen/Drama, Robert De Niro)**: La historia de la mafia en Las Vegas, llena de traiciones y ambiciones desmedidas, también dirigida por Scorsese.
-- **Carlito's Way (1993, Crimen/Drama, Al Pacino)**: Un ex-convicto intenta llevar una vida honesta, pero su pasado criminal sigue persiguiéndolo.
-- **Scarface (1983, Crimen/Drama, Al Pacino)**: La épica ascensión y trágica caída de Tony Montana, un inmigrante cubano que se convierte en un poderoso narcotraficante.
 - **The Godfather Saga (1972, 1974, 1990, Crimen/Drama, Marlon Brando/Al Pacino)**: La obra maestra de Francis Ford Coppola que narra la vida y los tiempos de la familia Corleone.
 - **Jerry & Marge Go Large (2022, Comedia/Drama, Bryan Cranston)**: Basada en una historia real, una pareja jubilada descubre una forma de ganar millones en la lotería y usar sus ganancias para revitalizar su pequeña ciudad.
 - **Karate Kid 1, 2, 3 (1984, 1986, 1989, Acción/Drama, Ralph Macchio)**: La historia de un joven que aprende karate de un maestro japonés para defenderse de los matones y encontrar su camino en la vida.
 - **The Greatest Showman (2017, Musical/Drama, Hugh Jackman)**: Inspirada en la vida de P.T. Barnum, muestra la creación de su famoso circo y las complejidades de la fama y la familia.
-- **Taxi Driver (1976, Drama/Thriller, Robert De Niro)**: Dirigida por Martin Scorsese, cuenta la historia de un taxista solitario y alienado en la Nueva York de los años 70, interpretado por Robert De Niro.
 - **Misión Imposible 3 (2006, Acción/Thriller, Tom Cruise, Philip Seymour Hoffman)**: Dirigida por J.J. Abrams, esta entrega destaca por su intensidad y desarrollo de personajes.
 - **Love Liza (2002, Drama, Philip Seymour Hoffman)**: Una película que explora el duelo y la vida de un hombre tras la muerte de su esposa, protagonizada por Philip Seymour Hoffman.
 - **The Fast and the Furious (2001, Acción/Drama, Vin Diesel, Paul Walker)**: La primera entrega de la saga que sigue a un grupo de corredores callejeros mientras participan en carreras ilegales y lidian con rivalidades y desafíos personales.
@@ -29,13 +24,19 @@
 - **Harry Potter and the Prisoner of Azkaban (2004, Fantasía/Aventura, Daniel Radcliffe)**: La tercera entrega de la saga de Harry Potter, donde Harry descubre más sobre su pasado y enfrenta nuevos peligros.
 - **28 Weeks Later (2007, Terror/Ciencia ficción, Robert Carlyle)**: La secuela de 28 Days Later, que muestra los esfuerzos por repoblar Londres después de un brote viral devastador.
 - **Collateral (2004, Crimen/Thriller, Tom Cruise)**: Un taxista de Los Ángeles es tomado como rehén por un asesino a sueldo que lo obliga a llevarlo a sus misiones durante una noche.
-- **The Dark Knight (2008, Acción/Crimen, Christian Bale)**: La segunda película de la trilogía de Batman dirigida por Christopher Nolan, donde Batman enfrenta al Joker, un criminal anárquico.
 - **Hackers (1995, Crimen/Thriller, Jonny Lee Miller y Angelina Jolie)**: Una película sobre un grupo de jóvenes hackers que se ven envueltos en una conspiración de alta tecnología.
 - **Blackhat (2015, Acción/Crimen, Chris Hemsworth)**: Un thriller basado en eventos reales, donde un hacker convicto es liberado para ayudar a capturar a un cibercriminal que está causando caos a nivel global.
 - **Interstellar (2014, Ciencia Ficción/Aventura, Matthew McConaughey)**: Una épica odisea espacial dirigida por Christopher Nolan, explorando el amor, el sacrificio y el destino de la humanidad.
 - **Idiocracy (2006, Comedia/Ciencia Ficción, Luke Wilson)**: Una sátira que imagina un futuro donde la inteligencia humana ha disminuido drásticamente, dirigida por Mike Judge.
 - **Before Sunrise (1995, Drama/Romance, Ethan Hawke)**: Un joven estadounidense se enamora de una chica durante un encuentro casual en Viena.
 - **Spy Game (2001, Acción/Thriller, Robert Redford, Brad Pitt)**: Brad Pitt interpreta a un joven agente de la CIA bajo la mentoría de un veterano (Robert Redford), mientras enfrenta una crisis internacional.
+- **Conspiracy Theory (1997, Acción/Thriller)**: Mel Gibson es Jerry Fletcher, un excéntrico taxista que cree en teorías de conspiración y se encuentra en el centro de una verdadera conspiración que involucra a un agente del gobierno (interpretado por Julia Roberts).
+- **Assassins (1995, Acción/Thriller)**: Antonio Banderas y Sylvester Stallone interpretan a dos asesinos a sueldo que se enfrentan en una peligrosa confrontación mientras persiguen a la misma víctima.
+
+## Películas de Batman 🦇 🌟🌟🌟🌟🌟
+- **The Dark Knight (2008, Acción/Drama, Christian Bale)**: Batman se enfrenta al Joker, un criminal psicópata que desata el caos en Gotham City.
+- **Joker (2019, Crimen/Drama, Joaquin Phoenix)**: Una mirada profunda y oscura al origen del icónico villano de Batman, el Joker.
+- **The Batman (2022, Acción/Drama, Robert Pattinson)**: Una nueva interpretación del Caballero Oscuro, donde un joven Bruce Wayne investiga los oscuros secretos de Gotham City.
 
 ## Juegos 🎮
 - **Metal Gear Solid Saga (1998-2015, Acción/Aventura, Hideo Kojima)**: Una serie de juegos de espionaje táctico creados por Hideo Kojima, conocidos por su profunda narrativa y complejos personajes.
@@ -60,6 +61,7 @@
 - **Dragon Ball Z: Budokai Tenkaichi 3 (2007, Lucha, Spike)**: Juego de lucha basado en el universo de Dragon Ball Z con una amplia variedad de personajes y movimientos especiales.
 
 ## Series 📺
+- **Gotham (2014-2019, Crimen/Drama)**: Explora los orígenes de Batman y los villanos de Gotham City, centrada en el detective James Gordon antes de convertirse en comisionado y en el joven Bruce Wayne mientras se convierte en el legendario vigilante.
 - **Mr. Robot (2015-2019, Drama/Thriller, Rami Malek)**: Un hacker con trastorno de personalidad disociativa se ve envuelto en una conspiración global.
 - **Breaking Bad (2008-2013, Crimen/Drama, Bryan Cranston)**: La transformación de un profesor de química en un poderoso capo de la droga.
 - **24 (2001-2010, Acción/Drama, Kiefer Sutherland)**: Serie de acción en tiempo real que sigue al agente antiterrorista Jack Bauer mientras desmantela amenazas a la seguridad nacional.
@@ -86,14 +88,14 @@
 - **Pet Sematary (1989 y 2019, Terror/Drama)**: Basada en la novela de King, explora los horrores que se desatan cuando una familia entierra a sus mascotas en un cementerio misterioso.
 - **1408 (2007, Terror/Drama)**: Un escritor escéptico de lo paranormal se enfrenta a terrores inimaginables en una habitación de hotel con un pasado oscuro.
 
-## Películas de Robert Downey Jr. 🌟🌟🌟🌟🌟
+## Películas de Robert Downey Jr. 🎬 🌟🌟🌟🌟🌟
 - **Iron Man (2008, Acción/Ciencia Ficción, Robert Downey Jr.)**: Tony Stark, un multimillonario y genio inventor, construye un traje blindado de alta tecnología y se convierte en Iron Man para combatir el mal.
 - **Iron Man 2 (2010, Acción/Ciencia Ficción, Robert Downey Jr.)**: Tony Stark enfrenta nuevos desafíos mientras se enfrenta a presiones políticas y a un enemigo que busca venganza.
 - **The Judge (2014, Drama/Crimen, Robert Downey Jr.)**: Un abogado de gran ciudad regresa a su pueblo natal para defender a su padre, un juez respetado, acusado de asesinato.
 - **Sherlock Holmes (2009, Acción/Aventura, Robert Downey Jr.)**: Sherlock Holmes y su compañero el Dr. Watson investigan un complot que podría destruir Gran Bretaña.
 - **Sherlock Holmes: A Game of Shadows (2011, Acción/Aventura, Robert Downey Jr.)**: Sherlock Holmes y el Dr. Watson se enfrentan a su enemigo más astuto, el Profesor Moriarty.
 
-## Películas de Denzel Washington 🌟🌟🌟🌟🌟
+## Películas de Denzel Washington 🎬 🌟🌟🌟🌟🌟
 - **Man on Fire (2004, Acción/Drama, Denzel Washington)**: Un ex-agente de la CIA se convierte en guardaespaldas de una niña en México y desata su furia cuando ella es secuestrada.
 - **The Book of Eli (2010, Acción/Aventura, Denzel Washington)**: En un mundo post-apocalíptico, un hombre solitario protege con su vida un libro sagrado que podría salvar a la humanidad.
 - **Training Day (2001, Crimen/Drama, Denzel Washington)**: Un joven oficial de policía es asignado a una unidad de élite dirigida por un veterano detective corrupto.
@@ -103,12 +105,27 @@
 - **Unstoppable (2010, Acción/Thriller, Denzel Washington)**: Dos empleados ferroviarios intentan detener un tren descontrolado lleno de productos químicos peligrosos.
 - **Deja Vu (2006, Acción/Sci-Fi, Denzel Washington)**: Un agente de la ATF utiliza tecnología experimental para investigar un atentado terrorista y retrocede en el tiempo para evitarlo.
 
-## Películas de Keanu Reeves 🌟🌟🌟🌟🌟
+## Películas de Keanu Reeves 🎬 🌟🌟🌟🌟🌟
 - **Matrix Trilogy (1999-2003, Ciencia Ficción/Acción, Keanu Reeves)**: Keanu Reeves interpreta a Neo, un hombre que descubre la verdad detrás de la realidad simulada en la que vive y se convierte en el líder de la resistencia humana contra las máquinas.
 - **John Wick (2014, Acción/Thriller, Keanu Reeves)**: Keanu Reeves es John Wick, un exasesino a sueldo que busca venganza después de que le roben lo más preciado que tenía: su perro.
 - **The Whole Truth (2016, Drama/Thriller, Keanu Reeves)**: Keanu Reeves interpreta a un abogado defensor que debe descubrir la verdad detrás de un complicado caso de homicidio.
 - **Speed (1994, Acción/Thriller, Keanu Reeves)**: Keanu Reeves es un oficial de policía que debe detener a un terrorista que ha puesto una bomba en un autobús de la ciudad de Los Ángeles y que explotará si el vehículo baja de los 50 mph.
 - **Constantine (2005, Acción/Fantasía, Keanu Reeves)**: Keanu Reeves interpreta a John Constantine, un detective privado y exorcista que lucha contra fuerzas demoníacas en Los Ángeles mientras intenta ganar su lugar en el cielo tras un intento de suicidio en su juventud.
+
+## Películas de Martin Scorsese 🎬 🌟🌟🌟🌟🌟
+- **Taxi Driver (1976, Drama/Thriller)**: Un veterano de Vietnam alienado se convierte en un taxista nocturno en Nueva York, donde su frustración y desprecio por la decadencia de la sociedad lo llevan a la violencia.
+- **Goodfellas (1990, Crimen/Drama)**: Basada en hechos reales, narra la vida de Henry Hill, un joven gángster italoamericano que asciende en la mafia de Nueva York, enfrentando traiciones y dilemas éticos.
+- **The Departed (2006, Crimen/Thriller)**: Dos hombres operan en lados opuestos de la ley en Boston: uno es un infiltrado en la mafia irlandesa, el otro es un informante en la policía. Ambos buscan descubrir la identidad del otro mientras la violencia y las traiciones aumentan.
+- **The Wolf of Wall Street (2013, Biografía/Crimen)**: Basada en la historia real de Jordan Belfort, un corredor de bolsa de Nueva York que se enriquece con fraudes financieros masivos y vive una vida de excesos.
+- **Casino (1995, Crimen/Drama)**: Ambientada en Las Vegas de los años 70, sigue la historia de un apostador profesional y su relación con el funcionamiento interno de un casino controlado por la mafia.
+- **Shutter Island (2010, Misterio/Thriller)**: Dos agentes federales investigan la desaparición de una paciente de un hospital psiquiátrico en una isla remota, solo para verse envueltos en un misterio que desafía su propia cordura.
+- **Gangs of New York (2002, Drama/Historia)**: En el Nueva York de mediados del siglo XIX, un joven busca vengar la muerte de su padre a manos de un poderoso líder de pandillas.
+- **The Irishman (2019, Biografía/Crimen)**: Un veterano de la Segunda Guerra Mundial se convierte en un asesino a sueldo para la mafia, reflejando décadas de su vida criminal y su implicación en la desaparición de Jimmy Hoffa.
+
+## Películas de Brian De Palma 🎬 🌟🌟🌟🌟🌟
+- **Scarface (1983, Crimen/Drama)**: Un inmigrante cubano se convierte en un poderoso señor de la droga en Miami, enfrentándose a la codicia y la violencia en su búsqueda del sueño americano.
+- **Blow Out (1981, Thriller/Misterio)**: Un técnico de sonido graba accidentalmente un asesinato, lo que lo lleva a una peligrosa búsqueda de la verdad mientras es perseguido por conspiradores.
+- **Carlito's Way (1993, Crimen/Drama)**: Un exconvicto puertorriqueño intenta alejarse de su pasado criminal en Harlem, pero se ve arrastrado de nuevo a un mundo de traición y violencia.
 
 ## Anime 🌸
 - **Death Note (2006)**: Un thriller psicológico que sigue la historia de un estudiante que encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.
