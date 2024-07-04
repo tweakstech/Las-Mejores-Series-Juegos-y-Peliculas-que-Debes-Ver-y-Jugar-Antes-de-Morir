@@ -9,7 +9,6 @@
 - **The Godfather Saga (1972, 1974, 1990, Crimen/Drama, Marlon Brando/Al Pacino)**: La obra maestra de Francis Ford Coppola que narra la vida y los tiempos de la familia Corleone.
 - **Jerry & Marge Go Large (2022, Comedia/Drama, Bryan Cranston)**: Basada en una historia real, una pareja jubilada descubre una forma de ganar millones en la lotería y usar sus ganancias para revitalizar su pequeña ciudad.
 - **Karate Kid 1, 2, 3 (1984, 1986, 1989, Acción/Drama, Ralph Macchio)**: La historia de un joven que aprende karate de un maestro japonés para defenderse de los matones y encontrar su camino en la vida.
-- **Iron Man 1, 2 (2008, 2010, Acción/Ciencia Ficción, Robert Downey Jr.)**: La transformación del multimillonario Tony Stark en el superhéroe Iron Man y sus enfrentamientos con villanos tecnológicos.
 - **The Greatest Showman (2017, Musical/Drama, Hugh Jackman)**: Inspirada en la vida de P.T. Barnum, muestra la creación de su famoso circo y las complejidades de la fama y la familia.
 - **Taxi Driver (1976, Drama/Thriller, Robert De Niro)**: Dirigida por Martin Scorsese, cuenta la historia de un taxista solitario y alienado en la Nueva York de los años 70, interpretado por Robert De Niro.
 - **Misión Imposible 3 (2006, Acción/Thriller, Tom Cruise, Philip Seymour Hoffman)**: Dirigida por J.J. Abrams, esta entrega destaca por su intensidad y desarrollo de personajes.
@@ -35,6 +34,8 @@
 - **Blackhat (2015, Acción/Crimen, Chris Hemsworth)**: Un thriller basado en eventos reales, donde un hacker convicto es liberado para ayudar a capturar a un cibercriminal que está causando caos a nivel global.
 - **Interstellar (2014, Ciencia Ficción/Aventura, Matthew McConaughey)**: Una épica odisea espacial dirigida por Christopher Nolan, explorando el amor, el sacrificio y el destino de la humanidad.
 - **Idiocracy (2006, Comedia/Ciencia Ficción, Luke Wilson)**: Una sátira que imagina un futuro donde la inteligencia humana ha disminuido drásticamente, dirigida por Mike Judge.
+- **Before Sunrise (1995, Drama/Romance, Ethan Hawke)**: Un joven estadounidense se enamora de una chica durante un encuentro casual en Viena.
+- **Spy Game (2001, Acción/Thriller, Robert Redford, Brad Pitt)**: Brad Pitt interpreta a un joven agente de la CIA bajo la mentoría de un veterano (Robert Redford), mientras enfrenta una crisis internacional.
 
 ## Juegos 🎮
 - **Metal Gear Solid Saga (1998-2015, Acción/Aventura, Hideo Kojima)**: Una serie de juegos de espionaje táctico creados por Hideo Kojima, conocidos por su profunda narrativa y complejos personajes.
@@ -52,7 +53,7 @@
 - **Rainbow Six Siege (2015, Shooter/Táctico, Operadores de Rainbow Six)**: Un juego de disparos táctico donde los jugadores asumen el papel de operadores de élite que trabajan en equipo para enfrentarse en intensas batallas de rescate y defensa.
 - **Final Fantasy VII (1997, RPG, Square Enix)**: Un clásico RPG japonés que sigue la historia de Cloud Strife y su lucha contra el malvado Shinra Corporation.
 - **Devil May Cry 3 (2005, Acción, Capcom)**: Un juego de acción frenética protagonizado por Dante, un cazador de demonios con habilidades sobrenaturales.
-- **Kingdom Hearts (2002-presente, Acción/RPG, Square Enix)**: Una serie de juegos que combina personajes de Disney con los de Final Fantasy en una historia épica de acción y aventuras.
+- **Kingdom Hearts (2002-2024, Acción/RPG, Square Enix)**: Una serie de juegos que combina personajes de Disney con los de Final Fantasy en una historia épica de acción y aventuras.
 - **Call of Duty (2003, Shooter, Infinity Ward)**: El juego original que inició la famosa serie de FPS (First-Person Shooter) ambientada en la Segunda Guerra Mundial.
 - **Call of Duty 2 (2005, Shooter, Infinity Ward)**: La secuela que continuó con la narrativa y la acción intensa de su predecesor.
 - **Call of Duty 4: Modern Warfare (2007, Shooter, Infinity Ward)**: Introdujo un cambio radical al llevar la serie a la era moderna con un enfoque en conflictos contemporáneos y tácticas modernas.
@@ -75,6 +76,7 @@
 - **The Punisher (2017-2019, Acción/Drama, Jon Bernthal)**: Frank Castle, un veterano de guerra en busca de venganza por la muerte de su familia, se convierte en el vigilante conocido como The Punisher.
 - **Suits (2011-2019, Drama, Gabriel Macht, Patrick J. Adams)**: Un prestigioso bufete de abogados de Nueva York contrata a un genio universitario sin título de abogado, cambiando para siempre la dinámica del despacho.
 - **Black Mirror (2011-2024, Ciencia ficción/Drama)**: Una serie antológica que explora la paranoia contemporánea y la relación compleja entre la tecnología y la sociedad.
+- **Dexter (2006-2013, Drama/Crimen, Michael C. Hall)**: Dexter Morgan, un forense del Departamento de Policía de Miami, lleva una doble vida como asesino en serie que persigue a criminales que han escapado de la justicia.
 
 ## Películas de Terror de Stephen King 🎬👑 🌟🌟🌟🌟🌟
 - **Carrie (1976, Terror/Drama)**: Dirigida por Brian De Palma, sigue la historia de una joven con poderes telequinéticos que se desatan tras años de abuso.
@@ -83,6 +85,13 @@
 - **Misery (1990, Terror/Drama)**: Basada en la novela del mismo nombre, cuenta la historia de una enfermera que secuestra a su autor favorito después de un accidente.
 - **Pet Sematary (1989 y 2019, Terror/Drama)**: Basada en la novela de King, explora los horrores que se desatan cuando una familia entierra a sus mascotas en un cementerio misterioso.
 - **1408 (2007, Terror/Drama)**: Un escritor escéptico de lo paranormal se enfrenta a terrores inimaginables en una habitación de hotel con un pasado oscuro.
+
+## Películas de Robert Downey Jr. 🌟🌟🌟🌟🌟
+- **Iron Man (2008, Acción/Ciencia Ficción, Robert Downey Jr.)**: Tony Stark, un multimillonario y genio inventor, construye un traje blindado de alta tecnología y se convierte en Iron Man para combatir el mal.
+- **Iron Man 2 (2010, Acción/Ciencia Ficción, Robert Downey Jr.)**: Tony Stark enfrenta nuevos desafíos mientras se enfrenta a presiones políticas y a un enemigo que busca venganza.
+- **The Judge (2014, Drama/Crimen, Robert Downey Jr.)**: Un abogado de gran ciudad regresa a su pueblo natal para defender a su padre, un juez respetado, acusado de asesinato.
+- **Sherlock Holmes (2009, Acción/Aventura, Robert Downey Jr.)**: Sherlock Holmes y su compañero el Dr. Watson investigan un complot que podría destruir Gran Bretaña.
+- **Sherlock Holmes: A Game of Shadows (2011, Acción/Aventura, Robert Downey Jr.)**: Sherlock Holmes y el Dr. Watson se enfrentan a su enemigo más astuto, el Profesor Moriarty.
 
 ## Películas de Denzel Washington 🌟🌟🌟🌟🌟
 - **Man on Fire (2004, Acción/Drama, Denzel Washington)**: Un ex-agente de la CIA se convierte en guardaespaldas de una niña en México y desata su furia cuando ella es secuestrada.
@@ -93,6 +102,13 @@
 - **Inside Man (2006, Crimen/Drama, Denzel Washington)**: Un detective se enfrenta a un intrincado juego de gato y ratón con un inteligente ladrón de bancos durante un atraco en Wall Street.
 - **Unstoppable (2010, Acción/Thriller, Denzel Washington)**: Dos empleados ferroviarios intentan detener un tren descontrolado lleno de productos químicos peligrosos.
 - **Deja Vu (2006, Acción/Sci-Fi, Denzel Washington)**: Un agente de la ATF utiliza tecnología experimental para investigar un atentado terrorista y retrocede en el tiempo para evitarlo.
+
+## Películas de Keanu Reeves 🌟🌟🌟🌟🌟
+- **Matrix Trilogy (1999-2003, Ciencia Ficción/Acción, Keanu Reeves)**: Keanu Reeves interpreta a Neo, un hombre que descubre la verdad detrás de la realidad simulada en la que vive y se convierte en el líder de la resistencia humana contra las máquinas.
+- **John Wick (2014, Acción/Thriller, Keanu Reeves)**: Keanu Reeves es John Wick, un exasesino a sueldo que busca venganza después de que le roben lo más preciado que tenía: su perro.
+- **The Whole Truth (2016, Drama/Thriller, Keanu Reeves)**: Keanu Reeves interpreta a un abogado defensor que debe descubrir la verdad detrás de un complicado caso de homicidio.
+- **Speed (1994, Acción/Thriller, Keanu Reeves)**: Keanu Reeves es un oficial de policía que debe detener a un terrorista que ha puesto una bomba en un autobús de la ciudad de Los Ángeles y que explotará si el vehículo baja de los 50 mph.
+- **Constantine (2005, Acción/Fantasía, Keanu Reeves)**: Keanu Reeves interpreta a John Constantine, un detective privado y exorcista que lucha contra fuerzas demoníacas en Los Ángeles mientras intenta ganar su lugar en el cielo tras un intento de suicidio en su juventud.
 
 ## Anime 🌸
 - **Death Note (2006)**: Un thriller psicológico que sigue la historia de un estudiante que encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.
