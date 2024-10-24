@@ -32,6 +32,8 @@
 - **Spy Game (2001, Acción/Thriller, Robert Redford, Brad Pitt)**: Brad Pitt interpreta a un joven agente de la CIA bajo la mentoría de un veterano (Robert Redford), mientras enfrenta una crisis internacional.
 - **Conspiracy Theory (1997, Acción/Thriller)**: Mel Gibson es Jerry Fletcher, un excéntrico taxista que cree en teorías de conspiración y se encuentra en el centro de una verdadera conspiración que involucra a un agente del gobierno (interpretado por Julia Roberts).
 - **Assassins (1995, Acción/Thriller)**: Antonio Banderas y Sylvester Stallone interpretan a dos asesinos a sueldo que se enfrentan en una peligrosa confrontación mientras persiguen a la misma víctima.
+- **Fantasma de Buenos Aires (2009, Fantasía/Comedia, Guillermo Grillo Ciocchini)**: Sexto largometraje producido íntegramente por la Universidad del Cine. La historia fantástica y cómica sigue a un joven tímido y el fantasma de un malevo asesinado en 1920. Tras un espiritismo fallido, el fantasma, que canta tango, habita en la casa del joven. Este hace un pacto con el fantasma para conocer los misterios de la muerte a cambio de permitirle vivir un día en su cuerpo. La trama combina situaciones disparatadas, emotivas y reflexivas sobre los cambios a lo largo del tiempo.
+- **The Master (2012, Drama, Joaquin Phoenix (*The Joker*)/Philip Seymour Hoffman (*Mission: Impossible III*)/Rami Malek (*Mr. Robot*))**: Un fascinante drama psicológico dirigido por Paul Thomas Anderson, que explora la relación entre un carismático líder de un culto y un hombre perturbado.
 
 ## Películas de Batman 🦇 🌟🌟🌟🌟🌟
 - **The Dark Knight (2008, Acción/Drama, Christian Bale)**: Batman se enfrenta al Joker, un criminal psicópata que desata el caos en Gotham City.
