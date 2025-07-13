@@ -61,8 +61,6 @@
 - **Call of Duty 2 (2005, Shooter, Infinity Ward)**: La secuela que continuó con la narrativa y la acción intensa de su predecesor.
 - **Call of Duty 4: Modern Warfare (2007, Shooter, Infinity Ward)**: Introdujo un cambio radical al llevar la serie a la era moderna con un enfoque en conflictos contemporáneos y tácticas modernas.
 - **Dragon Ball Z: Budokai Tenkaichi 3 (2007, Lucha, Spike)**: Juego de lucha basado en el universo de Dragon Ball Z con una amplia variedad de personajes y movimientos especiales.
-- **Due Date (2010, Comedia, Robert Downey Jr. (*Iron Man*)/Zach Galifianakis (*¿Qué pasó ayer?*))**: Excelente película de humor absurdo sobre un viaje lleno de caos, malentendidos y personajes estrafalarios. Mucho más ligera y menos profunda que *The Master*, pero muy entretenida.
-- **The Master (2012, Drama, Joaquin Phoenix (*The Joker*)/Philip Seymour Hoffman (*Mission: Impossible III*)/Rami Malek (*Mr. Robot*))**: Un fascinante drama psicológico dirigido por Paul Thomas Anderson, que explora la relación entre un carismático líder de un culto y un hombre perturbado.
 
 ## Series 📺
 - **Gotham (2014-2019, Crimen/Drama)**: Explora los orígenes de Batman y los villanos de Gotham City, centrada en el detective James Gordon antes de convertirse en comisionado y en el joven Bruce Wayne mientras se convierte en el legendario vigilante.
@@ -98,6 +96,7 @@
 - **The Judge (2014, Drama/Crimen, Robert Downey Jr.)**: Un abogado de gran ciudad regresa a su pueblo natal para defender a su padre, un juez respetado, acusado de asesinato.
 - **Sherlock Holmes (2009, Acción/Aventura, Robert Downey Jr.)**: Sherlock Holmes y su compañero el Dr. Watson investigan un complot que podría destruir Gran Bretaña.
 - **Sherlock Holmes: A Game of Shadows (2011, Acción/Aventura, Robert Downey Jr.)**: Sherlock Holmes y el Dr. Watson se enfrentan a su enemigo más astuto, el Profesor Moriarty.
+- **Due Date (2010, Comedia, Robert Downey Jr. (*Iron Man*)/Zach Galifianakis (*¿Qué pasó ayer?*))**: Excelente película de humor absurdo sobre un viaje lleno de caos, malentendidos y personajes estrafalarios. Mucho más ligera y menos profunda que *The Master*, pero muy entretenida.
 
 ## Películas de Denzel Washington 🎬 🌟🌟🌟🌟🌟
 - **Man on Fire (2004, Acción/Drama, Denzel Washington)**: Un ex-agente de la CIA se convierte en guardaespaldas de una niña en México y desata su furia cuando ella es secuestrada.
