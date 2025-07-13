@@ -1,6 +1,8 @@
  
 # 💀 Las Mejores Series, Juegos y Películas que Debes Ver y Jugar Antes de Morir ☠️😱
 
+![img](./img.png)
+
 ## Películas 🎬
 - **The Godfather Saga (1972, 1974, 1990, Crimen/Drama, Marlon Brando/Al Pacino)**: La obra maestra de Francis Ford Coppola que narra la vida y los tiempos de la familia Corleone.
 - **Jerry & Marge Go Large (2022, Comedia/Drama, Bryan Cranston)**: Basada en una historia real, una pareja jubilada descubre una forma de ganar millones en la lotería y usar sus ganancias para revitalizar su pequeña ciudad.
