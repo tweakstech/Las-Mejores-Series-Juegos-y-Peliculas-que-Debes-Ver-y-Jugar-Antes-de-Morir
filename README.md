@@ -141,6 +141,12 @@
 - **Valorant**: Conocido por su controvertido sistema de anti-trampas que puede afectar la privacidad y la seguridad del sistema.
 - **League of Legends (LoL)**: Aunque popular, ha sido criticado por problemas de toxicidad en la comunidad y políticas de moderación cuestionables.
 - **Fortnite**: A pesar de su popularidad, ha sido objeto de críticas por su impacto en el comportamiento y la adicción de los jugadores, especialmente entre los jóvenes.
+- 
+## ✅ Juegos que SÍ deberías jugar
+
+- **Rainbow Six Siege**: Un shooter táctico con un fuerte énfasis en la estrategia, comunicación en equipo y jugabilidad intensa.
+- **Metal Gear Saga**: Desde *Metal Gear Solid* hasta *The Phantom Pain*, esta serie ofrece una narrativa profunda, sigilo impecable y momentos épicos.
+- **Red Dead Redemption 2**: Una experiencia cinematográfica del Viejo Oeste con narrativa, exploración y realismo impresionantes.
 
 > [!WARNING]
 > Plataformas que NO deberías usar para evitar impactos negativos en tu IQ 🚫📉🧠
