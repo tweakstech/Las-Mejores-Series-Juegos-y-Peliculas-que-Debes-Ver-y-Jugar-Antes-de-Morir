@@ -63,6 +63,8 @@
 - **Call of Duty 2 (2005, Shooter, Infinity Ward)**: La secuela que continuó con la narrativa y la acción intensa de su predecesor.
 - **Call of Duty 4: Modern Warfare (2007, Shooter, Infinity Ward)**: Introdujo un cambio radical al llevar la serie a la era moderna con un enfoque en conflictos contemporáneos y tácticas modernas.
 - **Dragon Ball Z: Budokai Tenkaichi 3 (2007, Lucha, Spike)**: Juego de lucha basado en el universo de Dragon Ball Z con una amplia variedad de personajes y movimientos especiales.
+- **Murdered: Soul Suspect (2014, Aventura / Misterio, Airtight Games)**: Juego de aventura sobrenatural y misterio en el que controlas a Ronan O'Connor, un detective asesinado que debe investigar su propia muerte y resolver diversos casos mientras explora la ciudad de Salem como un fantasma.
+- **République (2013, Aventura / Sigilo, Camouflaj)**: Juego de aventura y sigilo centrado en Hope, una joven atrapada en un estado totalitario. El jugador controla cámaras de seguridad y sistemas electrónicos para ayudarla a escapar y descubrir los secretos de la instalación.
 
 ## Series 📺
 - **Gotham (2014-2019, Crimen/Drama)**: Explora los orígenes de Batman y los villanos de Gotham City, centrada en el detective James Gordon antes de convertirse en comisionado y en el joven Bruce Wayne mientras se convierte en el legendario vigilante.
